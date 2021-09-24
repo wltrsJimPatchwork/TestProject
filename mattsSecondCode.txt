@@ -1,0 +1,2 @@
+String deviceString = "";
+int deviceIndex = 0;
