@@ -1,1 +1,2 @@
 String helloString = "";
+int index = 0;
